@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <wd-button >wood</wd-button>
+  <wd-button >LazySheep</wd-button>
 </template>
 
 <style scoped>
